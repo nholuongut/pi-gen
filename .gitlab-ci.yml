@@ -1,0 +1,4 @@
+include:
+  - project: nholuongut/pi-gen
+    ref: ci
+    file: 'pi-gen.yml'
